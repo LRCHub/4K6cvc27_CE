@@ -1,0 +1,26 @@
+# Pink Floyd – Wish You Were Here
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:06.57] And disciplinary remains mercifully
+[00:10.29] Yes and um, I'm with you, Derek, this star nonsense
+[00:12.75] Yes, yes
+[00:13.91] Now which is it?
+[00:15.12] I am sure of it
+[00:22.62] 
+[01:35.39] So, so you think you can tell
+[01:42.21] Heaven from Hell, blue skies from pain?
+[01:50.23] Can you tell a green field from a cold steel rail
+[01:58.51] A smile from a veil? Do you think you can tell?
+[02:22.01] 
+[02:07.34] Did they get you to trade your heroes for ghosts
+[02:15.16] Hot ashes for trees, hot air for a cool breeze
+[02:23.41] Cold comfort for change? Did you exchange
+[02:30.82] A walk-on part in the war for a lead role in a cage?
+[02:56.82] 
+[03:17.02] How I wish, how I wish you were here
+[03:23.56] We're just two lost souls swimming in a fishbowl, year after year
+[03:33.12] Running over the same old ground, what have we found?
+[03:39.46] The same old fears, wish you were here
+```
